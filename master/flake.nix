@@ -11,6 +11,7 @@
   inputs.src-graphics-master.ref   = "refs/heads/master";
   inputs.src-graphics-master.owner = "nim-lang";
   inputs.src-graphics-master.repo  = "graphics";
+  inputs.src-graphics-master.dir   = "";
   inputs.src-graphics-master.type  = "github";
   
   inputs."sdl1".owner = "nim-nix-pkgs";
